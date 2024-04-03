@@ -21,4 +21,4 @@ Remoção:
 Foi criado um gatilho para não perder as informações sobre os clientes. 
 
 Atualização:  
-Foi criado um gatilho para a atualização do salário base. 
+Foi criado um gatilho para a atualização do salário base dos colaboradores. 
